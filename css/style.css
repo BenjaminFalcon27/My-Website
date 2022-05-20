@@ -1290,4 +1290,15 @@ input[type="text"] {
   opacity: 0;
 }
 
+.flag {
+  position: absolute;
+  color: white;
+  padding: 5px;
+}
+
+.flag p {
+  display: inline;
+  padding: 2px;
+}
+
 /*# sourceMappingURL=style.css.map */
