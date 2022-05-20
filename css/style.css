@@ -1296,9 +1296,15 @@ input[type="text"] {
   padding: 5px;
 }
 
-.flag p {
+.flag a {
   display: inline;
   padding: 2px;
 }
 
+.french-version {
+  color: white;
+}
+.french-version:hover {
+  color: white;
+}
 /*# sourceMappingURL=style.css.map */
